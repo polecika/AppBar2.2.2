@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Записная книжка</string>
+    <string name="textWelcome">Добро пожаловать в приложение "Записаная книжка"</string>
+    <string name="textNotes">Тут можно создавать заметки</string>
+    <string name="textSettings">Тут можно настроить приложение</string>
+    <string name="menuSettings">Настройки</string>
+    <string name="menuNotes">Записная книжка</string>
+</resources>
